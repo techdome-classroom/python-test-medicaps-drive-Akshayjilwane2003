@@ -15,3 +15,5 @@ class Solution(object):
         
         return total
         pass
+solution = Solution()
+print(solution.romanToInt("III"))

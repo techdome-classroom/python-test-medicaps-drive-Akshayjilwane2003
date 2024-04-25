@@ -20,6 +20,7 @@ class Solution(object):
     
 solution = Solution()
 print(solution.isValid("()"))
+
     
 
 

@@ -27,4 +27,4 @@ class Solution(object):
             
             prev_value = current_value
         
-      return result
+          return result

@@ -14,8 +14,3 @@ class Solution(object):
                 total += roman_values[s[i]]
         
         return total
-    
-solution = Solution()
-print(solution.romanToInt("III"))
-print(solution.romanToInt("LVIII"))
-print(solution.romanToInt("MCMXCIV"))

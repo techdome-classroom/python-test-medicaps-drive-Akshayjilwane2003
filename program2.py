@@ -17,3 +17,4 @@ class Solution(object):
         pass
 solution = Solution()
 print(solution.romanToInt("III"))
+print(solution.romanToInt("LVIII"))

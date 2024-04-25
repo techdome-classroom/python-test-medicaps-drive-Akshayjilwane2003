@@ -18,7 +18,8 @@ class Solution(object):
 
         return not stack
     
-
+solution = Solution()
+print(solution.isValid("()"))
     
 
 
